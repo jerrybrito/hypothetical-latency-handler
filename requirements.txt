@@ -1,0 +1,2 @@
+# Requires: deprecated-loop
+# (Not available on PyPI)
